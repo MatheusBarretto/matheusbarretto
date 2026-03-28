@@ -4,12 +4,11 @@
 <p>
   Profissional em transição de carreira que não se contenta com o básico. Atualmente focado no aprendizado de desenvolvimento Front-End. Possuo experiência em atendimento ao cliente e atuando nessa área vi o quão é inportante a satisfação do cliente. Unindo o profissionalismo da minha área de origem à versatilidade do Front-End, busco criar aplicações que resolvam dores reais com elegância e performance.
 
-<h3>Tecnologias:</h3>
-<span>
-  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/html.png?raw=true" alt="Html" title="Html"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="css" title="css"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" title="javascript"/>
-</span>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+alt="Github Stats"
+/>
 
 ## 🌐 Conecte-se comigo:
 
